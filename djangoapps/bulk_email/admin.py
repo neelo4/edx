@@ -33,7 +33,7 @@ for plaintext email.  Both templates should contain the string '{{message_body}}
 two curly braces on each side), to indicate where the email text is to be inserted.
 
 Other tags that may be used (surrounded by one curly brace on each side):
-{platform_name}        : the name of the platform
+{platform_name}        : Quickwork Academy
 {course_title}         : the name of the course
 {course_root}          : the URL path to the root of the course
 {course_language}      : the course language. The default is None.
